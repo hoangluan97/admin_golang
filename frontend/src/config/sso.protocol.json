@@ -1,0 +1,7 @@
+{
+    "protocol": [
+        "SAML",
+        "OAUTH2",
+        "OPENID"
+    ]
+}

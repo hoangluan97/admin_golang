@@ -1,0 +1,68 @@
+{
+    "account": {
+        "bbrowser": [
+            "account_read_bbrowser",
+            "account_create_bbrowser",
+            "account_update_bbrowser",
+            "account_delete_bbrowser"
+        ],
+        "biocolab": [
+            "account_read_biocolab",
+            "account_create_biocolab",
+            "account_update_biocolab",
+            "account_delete_biocolab"
+        ],
+        "vinci": [
+            "account_read_vinci",
+            "account_create_vinci",
+            "account_update_vinci",
+            "account_delete_vinci"
+        ]
+    },
+    "license": {
+        "bbrowser": [
+            "license_read_bbrowser",
+            "license_create_bbrowser",
+            "license_update_bbrowser",
+            "license_delete_bbrowser"
+        ],
+        "biocolab": [
+            "license_read_biocolab",
+            "license_create_biocolab",
+            "license_update_biocolab",
+            "license_delete_biocolab"
+        ],
+        "vinci": [
+            "license_read_vinci",
+            "license_create_vinci",
+            "license_update_vinci",
+            "license_delete_vinci"
+        ]
+    },
+    "invoice": {
+        "bbrowser": [
+            "invoice_read_bbrowser",
+            "invoice_create_bbrowser",
+            "invoice_update_bbrowser"
+        ],
+        "biocolab": [
+            "invoice_delete_bbrowser",
+            "invoice_read_biocolab",
+            "invoice_create_biocolab",
+            "invoice_update_biocolab",
+            "invoice_delete_biocolab"
+        ],
+        "vinci": [
+            "invoice_read_vinci",
+            "invoice_create_vinci",
+            "invoice_update_vinci",
+            "invoice_delete_vinci"
+        ]
+    },
+    "admin_account": [
+        "admin_account_read",
+        "admin_account_create",
+        "admin_account_update",
+        "admin_account_delete"
+    ]
+}

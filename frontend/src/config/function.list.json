@@ -1,0 +1,8 @@
+{
+    "function": [
+        "account",
+        "invoice",
+        "license",
+        "admin_account"
+    ]
+}

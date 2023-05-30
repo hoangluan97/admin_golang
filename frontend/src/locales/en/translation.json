@@ -1,0 +1,162 @@
+{
+  "common": {
+    "email": "Email",
+    "name": "Name",
+    "submit": "Submit",
+    "permission": "Permission",
+    "require_input": "This is a required input",
+    "password": "Password",
+    "domain": "Domain control",
+    "product_type": "Product type",
+    "package": "Package",
+    "note": "Note",
+    "type": "Type",
+    "export": "Export"
+  },
+  "edit": {
+    "account": "Edit Account",
+    "license": "Edit License",
+    "invoice": "Edit Invoice",
+    "admin_account": "Edit Admin account",
+    "sso_config": "Edit SSO config"
+  },
+  "export": {
+    "account": "Export Account",
+    "license": "Export License",
+    "invoice": "Export Invoice",
+    "admin_account": "Export Admin account",
+    "sso_config": "Export SSO config"
+  },
+  "create": {
+    "account": "Create Account",
+    "license": "Create License",
+    "invoice": "Create Invoice",
+    "admin_account": "Create Admin account",
+    "sso_config": "Create SSO config"
+  },
+  "sidebar": {
+    "logo": "Bioturing Admin",
+    "biocolab": "BioColab",
+    "datatable": "Data table",
+    "account": "Account",
+    "license": "License",
+    "promotion": "Promotion",
+    "invoice": "Invoice",
+    "setting": "Setting",
+    "admin_account": "Admin account",
+    "academic": "Academic",
+    "enterprise": "Enterprise",
+    "sso": "SS0",
+    "domain": "Domain",
+    "overview": "Overview",
+    "tracing": "Tracing",
+    "activity": "Activity",
+    "logger": "Logger",
+    "request": "Request"
+  },
+  "apps": {
+    "bbrowser": "Bbrowser",
+    "biocolab": "BioColab",
+    "vinci": "Vinci",
+    "all": "All"
+  },
+  "function": {
+    "account": "Account",
+    "license": "License",
+    "invoice": "Invoice",
+    "admin_account": "Admin account"
+  },
+  "table": {
+    "basicTable": "Table",
+    "name": "Name",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "actions": "Actions",
+    "inviteMessage": "Invite Message",
+    "edit": "Edit",
+    "delete": "Delete",
+    "create": "Create new",
+    "stage": "Stage",
+    "institution": "Institution",
+    "creator": "Creator",
+    "quoteid": "Quote ID",
+    "reason": "Reason",
+    "packages": "Packages",
+    "invoiceid": "Invoice ID",
+    "status": "Status",
+    "permission": "Permission",
+    "yes": "Yes",
+    "no": "No",
+    "history": "History",
+    "period": "Period",
+    "expire": "Expiry date",
+    "code": "Code",
+    "applied_product": "Applied Product",
+    "active_email": "Active Email",
+    "discount_amount": "Discount Amount",
+    "discount_type": "Discount Type",
+    "active_day": "Active Day",
+    "id": "ID",
+    "action": "Action",
+    "product": "Product",
+    "created_at": "Created at",
+    "export": "Export",
+    "chart": "Chart",
+    "table": "Table",
+    "package": "Package",
+    "application_name": "Application Name",
+    "content": "Content",
+    "request_type": "Request Type",
+    "company": "Company",
+    "research_interests": "Research Interests",
+    "note": "Note",
+    "read_status": "Status",
+    "mark": "Mark"
+  },
+  "action": {
+    "delete_account": "Do you want to delete this account",
+    "delete_license": "Do you want to delete this license",
+    "delete_invoice": "Do you want to delete this invoice",
+    "delete_promotion": "Do you want to delete this promotion",
+    "delete_sso": "Do you want to delete this SSO"
+  },
+  "permission": {
+    "academic": "Academic",
+    "enterprise": "Enterprise",
+    "setting": "Setting",
+    "all": "All"
+  },
+  "auth": {
+    "login": "Login"
+  },
+  "header": {
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "overview": {
+    "study": "Study",
+    "user": "User",
+    "account": "Account",
+    "product": "Product",
+    "activity": "Activity"
+  },
+  "confirm": {
+    "sso_delete": "Do you want to delete this SSO config"
+  },
+  "sso": {
+    "protocol": "Protocol",
+    "app_name": "App name",
+    "allow_domains": "Allow domains",
+    "domain_example": "example1.com,example2.com",
+    "type": "Type",
+    "sub_type": "Subtype",
+    "disable_ssl": "Disable SSL"
+  },
+  "tooltip": {
+    "filter": "Filter",
+    "clear_filter": "Clear filter",
+    "not_marked": "Not been marked yet",
+    "mark": "Mark as read"
+  }
+}

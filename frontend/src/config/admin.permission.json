@@ -1,0 +1,8 @@
+{
+    "permissions": [
+        "academic",
+        "enterprise",
+        "setting",
+        "tracing"
+    ]
+}
